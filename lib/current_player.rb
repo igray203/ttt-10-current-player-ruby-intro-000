@@ -20,3 +20,10 @@ def current_player(array)
     return "O"
   end
 end
+<<<<<<< HEAD
+=======
+
+#puts current_player(turns_counted)
+#puts turn_count(board)
+#puts turns_counted
+>>>>>>> 0062d3b81af51020d0f419b0123fa49ffa709832
